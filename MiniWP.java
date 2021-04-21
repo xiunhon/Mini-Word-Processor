@@ -1,8 +1,7 @@
 import java.util.Stack;
 /**
  * 
- * @author Group 3: Tien N., Victoria T., Niklas K.
- * Part 2:
+ * @author Tien N.
  * Create a mini word processor
  */
 class MiniWP implements MiniWPI {
