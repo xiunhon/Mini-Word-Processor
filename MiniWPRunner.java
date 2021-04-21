@@ -2,7 +2,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 /**
- * @author Group 3: Tien N., Victoria T., Niklas K.
+ * @author Tien N.
  * tester for all methods of MiniWP class
  */
 public class MiniWPRunner {
@@ -46,5 +46,5 @@ public class MiniWPRunner {
 		System.out.println();
 		System.out.println("Print text:");
 		System.out.println("Expected: initial contentssJ == " + myWP.toString());
-	}
-}
+	}//end of main
+}//end of class
